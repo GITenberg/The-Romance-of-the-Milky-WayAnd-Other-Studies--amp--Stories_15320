@@ -1,0 +1,37 @@
+_repo: The-Romance-of-the-Milky-WayAnd-Other-Studies--amp--Stories_15320
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hearn, Lafcadio
+    aliases:
+    - Xiaoquan, Bayun
+    - Hearn, Patrick Lafcadio
+    - Koizumi, Yakumo
+    birthdate: 1850
+    deathdate: 1904
+    gutenberg_agent_id: '368'
+    url: http://www.gutenberg.org/2009/agents/368
+    wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
+description: ''
+gutenberg_issued: '2005-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15320'
+  lccn: '05033310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Japan -- Description and travel'
+- !lcsh 'Folklore -- Japan'
+- !lcsh 'Tales -- Japan'
+tableOfContents: The romance of the Milky Way -- Goblin poetry -- "Ultimate questions"
+  -- The mirror maiden -- The story of Ito Norisuké -- Stranger than fiction -- A
+  letter from Japan.
+title: The Romance of the Milky Way, and Other Studies & Stories
+url: http://www.gutenberg.org/ebooks/15320
