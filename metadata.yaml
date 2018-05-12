@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/368
     wikipedia: http://en.wikipedia.org/wiki/Lafcadio_Hearn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15320#The-Romance-of-the-Milky-WayAnd-Other-Studies--amp--Stories
 gutenberg_issued: '2005-03-10'
 gutenberg_type: Text
 identifiers:
